@@ -7,9 +7,9 @@ Here they are:
 * libqt5qml-graphicaleffects
 * qml-module-qtquick-controls
 
-I found them all and shared to provide convenience for who need them
+I found them all and shared to provide convenience for who need them.
 
---------------------------------.
+--------------------------------
 
 原项目对于ubuntu系统只提供到17.10的支持，在我的18.04系统下出现了很多依赖问题。原软件包的一些依赖已经被废弃或是不兼容，在软件发布源中已不能够被下载。
 
